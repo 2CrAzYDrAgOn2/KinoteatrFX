@@ -15,7 +15,7 @@ public class HelloController {
 
     @FXML
     void btnClick(ActionEvent event) {
-        event.getSource().
+
     }
 
     @FXML
